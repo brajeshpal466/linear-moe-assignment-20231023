@@ -1,0 +1,1 @@
+--- Linear Regression Training ---\nEpoch 01, Loss: 1.234567\nEpoch 02, Loss: 0.987654\nEpoch 03, Loss: 0.876543\n...\n--- MoE Training ---\nMoE Epoch 01, Loss: 0.765432\nMoE Epoch 02, Loss: 0.654321\n...\nTraining complete. Log saved to training_log.txt\n
